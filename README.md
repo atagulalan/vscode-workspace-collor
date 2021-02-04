@@ -17,8 +17,8 @@ This extension contributes the following settings:
 
 ## Issues
 
-Submit the [issues](https://github.com/saitofjp/vscode-workspace-collor/issues) if you find any bug or have any suggestion.
+Submit the [issues](https://github.com/atagulalan/vscode-workspace-collor/issues) if you find any bug or have any suggestion.
 
 ## Contribution
 
-Fork the [repo](https://github.com/saitofjp/vscode-workspace-collor) and submit pull requests.
+Fork the [repo](https://github.com/atagulalan/vscode-workspace-collor) and submit pull requests.
